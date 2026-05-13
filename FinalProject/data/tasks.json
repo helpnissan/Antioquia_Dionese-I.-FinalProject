@@ -1,0 +1,55 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "PROJECT PROPOSAL",
+            "description": "for entrep",
+            "category": "marketing",
+            "priority": "High",
+            "due_date": "2026-05-15",
+            "status": "Incomplete",
+            "created_at": "2026-05-13"
+        },
+        {
+            "id": 2,
+            "title": "payment for electricity",
+            "description": "a must to avoid electricity cut off",
+            "category": "house",
+            "priority": "Medium",
+            "due_date": "2026-05-30",
+            "status": "Incomplete",
+            "created_at": "2026-05-13"
+        },
+        {
+            "id": 3,
+            "title": "SCHEDULE TEAM TRAINING SESSION",
+            "description": "human resources",
+            "category": "resources",
+            "priority": "Low",
+            "due_date": null,
+            "status": "Incomplete",
+            "created_at": "2026-05-13"
+        },
+        {
+            "id": 5,
+            "title": "PROJECT DOCUMENTATION",
+            "description": "add picture during the making",
+            "category": "development",
+            "priority": "Medium",
+            "due_date": "2026-5-30",
+            "status": "Complete",
+            "created_at": "2026-05-13"
+        },
+        {
+            "id": 6,
+            "title": "MARKETING BUDGET",
+            "description": "i need to budget my business",
+            "category": "marketing",
+            "priority": "Low",
+            "due_date": null,
+            "status": "Incomplete",
+            "created_at": "2026-05-13"
+        }
+    ],
+    "last_updated": "2026-05-13 12:50:03"
+}

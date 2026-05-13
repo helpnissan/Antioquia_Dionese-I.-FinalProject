@@ -28,12 +28,11 @@ Menu Options
 2.  Add New Task             - Create a new task
 3.  Delete Task              - Remove a task
 4.  View Tasks by Category   - Filter tasks by category
-5.  View Tasks by Priority   - View tasks organized by priority
-6.  View Overdue Tasks       - Show tasks past their due date
-7.  View Tasks Due Today     - Show tasks due today
-8.  Mark Task as Complete    - Update task status to complete
-9.  Mark Task as Incomplete  - Update task status to incomplete
-10. Search Tasks            - Find tasks by keyword
+5.  View Overdue Tasks       - Show tasks past their due date
+6.  View Tasks Due Today     - Show tasks due today
+7.  Mark Task as Complete    - Update task status to complete
+8.  Mark Task as Incomplete  - Update task status to incomplete
+9. Search Tasks            - Find tasks by keyword
 0.  Exit                     - Close application
 
 Examples CLI usage with screenshot
